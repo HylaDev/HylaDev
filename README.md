@@ -1,5 +1,4 @@
- * Hi ☺️
- * Salut,
+ * Salut ☺️,
  * Je suis Ernest Yélian DOSSA 
  * Je suis développeur web full stack avec React et Django/Python 🐍 mais ouvert à d'autres technologies
  * Je vis actuellement à Orléans, France dans le cadre de mes études
