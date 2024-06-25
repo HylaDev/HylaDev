@@ -1,6 +1,9 @@
- * Salut ☺️,
- * Je suis Ernest Yélian DOSSA 
- * Je suis développeur web full stack avec React et Django/Python 🐍 mais ouvert à d'autres technologies
- * Je vis actuellement à Orléans, France dans le cadre de mes études
- * Je suis à la recherche d'une alternance en développement web à partir de septembre 2024 pour mes 2 années de master
- * Portofolio : yelian.netlify.app
+👋 Salut à tous,
+
+Je m'appelle Ernest Yélian DOSSA et je suis un développeur web full stack passionné, spécialisé en React et Django/Python 🐍, tout en restant ouvert à l'apprentissage de nouvelles technologies.
+
+🌍 Actuellement basé à Orléans, France, pour mes études, je suis en quête d'une opportunité d'alternance en développement web à partir de septembre 2024 pour mes deux années de master.
+
+🔗 Découvrez mon portfolio ici : [yelian.netlify.app](https://yelian.netlify.app)
+
+📫 N'hésitez pas à me contacter pour discuter de toute opportunité ou collaboration !
