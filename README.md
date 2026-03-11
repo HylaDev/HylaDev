@@ -1,6 +1,6 @@
-👋 Salut à tous,
+👋 Hell,
 
-Je m'appelle Ernest Yélian DOSSA et je suis un développeur web full stack ( Nextjs, Angular, Spring Boot, Django🐍, Low/No Code) tout en restant ouvert à l'apprentissage de nouvelles technologies.
+Je suis Yélian Ernest DOSSA et je suis un développeur web full stack ( Nextjs, Angular, Spring Boot, Django🐍, Low/No Code) tout en restant ouvert à l'apprentissage de nouvelles technologies.
 
 * 🌍 Actuellement en alternance de deux ans à B-School By BNP Paribas.
 
