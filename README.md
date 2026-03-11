@@ -6,4 +6,6 @@ Je suis Yélian Ernest DOSSA, développeur web full stack ( Nextjs, Angular, Spr
 
 * 🔗 Découvrez mon portfolio ici : [yelian.netlify.app](https://yelian.netlify.app)
 
+* 🔗  Mon gitlab : [gitlab](https://gitlab.com/HylaDev)
+
 * 📫 N'hésitez pas à me contacter pour discuter de toute opportunité ou collaboration !
